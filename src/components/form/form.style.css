@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+}
+
+.tick-icon {
+  width: 10%;
+  opacity: 0.1;
+}
+
+label {
+  display: flex;
+  margin: 0 4rem;
+}
+
+.form button {
+  left: 1rem;
+  height: 50px;
+  top: 2.1rem;
+  font-family: "Texturina", serif !important;
+  text-transform: capitalize !important;
+  letter-spacing: 3px !important;
+  color: darkgrey !important;
+  font-size: 1.3rem !important;
+}

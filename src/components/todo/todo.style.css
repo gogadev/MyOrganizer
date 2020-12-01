@@ -1,0 +1,28 @@
+.list {
+  margin: 1rem;
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  gap: 1rem;
+}
+
+.todo li {
+  text-transform: capitalize;
+  font-size: 1.2rem;
+}
+
+.todo img {
+  width: 15%;
+  opacity: 0.4;
+}
+
+.todo .MuiSvgIcon-root {
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+}

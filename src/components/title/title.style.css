@@ -1,0 +1,23 @@
+.title {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.main-title {
+  border: 3px solid lightgrey;
+  margin: 1rem auto;
+  width: 80vw;
+  padding: 0.2rem;
+  opacity: 0.5;
+  font-weight: 100;
+  font-size: 2.5rem;
+}
+
+.title img {
+  display: flex;
+  margin: 0 auto;
+  text-align: center;
+  opacity: 0.2;
+}
